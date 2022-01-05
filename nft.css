@@ -15,9 +15,10 @@
 
 body {
   font-family: "Outfit", sans-serif;
-  height: 100vh;
+  height: 120vh;
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   background-color: var(--main-bg-color);
 }
@@ -26,7 +27,6 @@ body {
   border-radius: 15px;
   background-color: var(--card-color);
   width: 350px;
-  align-self: center;
   box-shadow: 10px 20px 20px hsl(217, 67%, 8%), -10px 0 20px hsl(217, 67%, 8%);
 }
 
@@ -45,9 +45,9 @@ body {
   left: 0;
   right: 0;
   opacity: 0;
-  transition: 0.3s ease;
+  transition: 0.4s ease;
   background-color: hsla(178, 100%, 50%, 0.55);
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 .overlay img {
@@ -73,6 +73,7 @@ body {
 
 #image-caption {
   font-size: larger;
+  font-weight: bold;
   color: var(--white-text);
   padding: 20px 0 5px 0;
 }
@@ -141,4 +142,16 @@ hr {
 #author-name:hover {
   color: var(--cyan);
   cursor: pointer;
+}
+
+.attribution {
+  margin-top: 96px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.attribution a {
+  color: hsl(215, 51%, 70%);
+  text-decoration: none;
 }

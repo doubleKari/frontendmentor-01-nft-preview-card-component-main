@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://doublekari.github.io/](https://doublekari.github.io/)
 
 ## My process
 
@@ -63,4 +62,4 @@ I want to learn how to do overlays and also learn more responsive techniques.
 
 ## Acknowledgments
 
-Thanks to web developer on Twitter who share such wonderful resources and also to frontend mentor for providing such challenging exercise to improve ones styling skills.
+Thanks to all web developers on Twitter who share such wonderful resources and also to frontend mentor for providing such challenging exercise to improve ones styling skills.

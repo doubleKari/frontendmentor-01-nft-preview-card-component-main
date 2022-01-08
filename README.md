@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://doublekari.github.io/](https://doublekari.github.io/)
+- Live Site URL: [https://doublekari.github.io/frontendmentor-01-nft-preview-card-component-main/](https://doublekari.github.io/frontendmentor-01-nft-preview-card-component-main/)
 
 ## My process
 
